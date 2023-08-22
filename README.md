@@ -9,10 +9,9 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriel Augusto Piedade Inácio
+- Raphael Siqueira Prince
+- Thiago Henrique Marques Matias
 
 # Documentação
 
