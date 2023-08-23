@@ -17,10 +17,20 @@ A união de todos os seus restaurantes e conveniências favoritos em um só luga
 Mesh Delivery
 
 ### 1.3.3	Missão do produto
-Unir restaurantes e conveniências em apenas um lugar
+Unir restaurantes e conveniências em apenas um lugar,  onde pessoas podem cadastrar um ou mais estabelecimentos para oferecer seus produtos. O aplicativo deve possuir funcionalidades de promoções, como promoção por tempo ou até o fim do estoque de certos produtos.
 
 ### 1.3.4	Principais Serviços 
-1.Realizar pedidos de delivery de qualquer restaurante ou conveniência cadastrado no app 
+1.Realizar pedidos de delivery de qualquer restaurante ou conveniência cadastrado no app
+2. Os clientes devem estar sempre informados sobre a situação dos seus
+  pedidos.
+3. A entrega dos produtos deve ser feita por entregadores cadastrados no
+  sistema e são atribuídas aos entregadores de acordo com a proximidade deles
+  ao estabelecimento que está vendendo o produto.
+4. Clientes podem cadastrar vários endereços e formas de pagamento. Clientes
+  podem seguir estabelecimentos para acompanhar 
+5. Promoções e lançamentos de novos produtos. 
+6. Os clientes devem estar sempre informados sobre a situação dos seus
+  pedidos.
 
 ### 1.3.4.1	Gestão de Manutenção da Infraestrutura
 
