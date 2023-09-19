@@ -31,8 +31,6 @@ RF12 - O aplicativo deve permitir que os clientes visualizem o histórico de ped
 
 RF13 - Deve existir um sistema de avaliação e classificação para os entregadores, permitindo que os clientes avaliem sua experiência de entrega.
 
-RF14 - O aplicativo deve oferecer suporte para diferentes idiomas e moedas, para atender a uma base de usuários diversificada.
-
 #### 2.2 Requisitos não funcionais
 RNF1 - Segurança: O aplicativo deve garantir a segurança dos dados dos clientes, incluindo informações de pagamento e endereços.
 
@@ -55,3 +53,10 @@ RN4 - Restrição de Área de Atuação: A atribuição de entregadores com base
 
 #### 2.4 Casos de uso
 
+CDU1 - Realizar pedido
+  1. Cliente realiza pedido de um produto
+  2. Cliente
+  3. Cliente efetua pedido no aplicativo
+  4. Quando cliente adiciona produto no carrinho, mas produto fica sem estoque, não será possível concluir o pedido.
+  5. Cadastro de loja, cadastro de produto, cadastro de motoboy, cadastro de cliente, cadastar endereço
+  6. Acompanhar pedido
