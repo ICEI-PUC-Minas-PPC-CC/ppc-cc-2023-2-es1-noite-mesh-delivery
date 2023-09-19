@@ -52,3 +52,6 @@ RN2 - Pagamento a Estabelecimentos: Os estabelecimentos cadastrados receberão o
 RN3 - Taxas de Entrega: Os clientes podem estar sujeitos a taxas de entrega, que serão determinadas com base na distância entre o estabelecimento e o endereço de entrega.
 
 RN4 - Restrição de Área de Atuação: A atribuição de entregadores com base na proximidade está restrita a uma área geográfica predefinida para garantir entregas eficientes.
+
+#### 2.4 Casos de uso
+
