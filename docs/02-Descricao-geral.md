@@ -396,3 +396,15 @@
 
 8. **Informações Adicionais**
    - As avaliações podem ser utilizadas para premiar ou reconhecer o bom desempenho dos entregadores.
+
+### 2.5 Operações nos Casos de Uso
+   @Gabriel
+   - Avaliacao
+   - Cliente
+   - Entregador
+   - Endereco
+   - Estabelecimento
+   - FormaDePagamento
+   - HorarioDeFuncionamento
+   - Pedido
+   - Produto
