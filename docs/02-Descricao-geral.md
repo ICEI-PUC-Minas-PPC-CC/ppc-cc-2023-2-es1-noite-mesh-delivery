@@ -408,3 +408,65 @@
    - HorarioDeFuncionamento
    - Pedido
    - Produto
+##### Tarefa 04
+
+| Classe | Casos de uso |
+|---|---|
+| Cliente | Cadastrar cliente, Acessar perfil, Realizar pedido, Avaliar estabelecimento |
+| Entregador | Cadastrar entregador, Acessar perfil, Realizar entrega |
+| Endereço | Cadastrar endereço, Atualizar endereço, Excluir endereço |
+| Estabelecimento | Cadastrar estabelecimento, Atualizar estabelecimento, Excluir estabelecimento |
+| Forma de pagamento | Selecionar forma de pagamento |
+| Horário de funcionamento | Atualizar horário de funcionamento |
+| Pedido | Realizar pedido, Cancelar pedido, Receber pedido, Entregar pedido |
+| Produto | Adicionar produto, Remover produto, Atualizar produto |
+
+### Operações nos casos de uso
+
+* **Cadastrar cliente**
+    * Criar novo cliente
+    * Salvar cliente no banco de dados
+* **Acessar perfil**
+    * Buscar cliente no banco de dados
+    * Exibir informações do cliente
+* **Realizar pedido**
+    * Selecionar estabelecimento
+    * Selecionar produtos
+    * Selecionar forma de pagamento
+    * Calcular valor total
+    * Criar pedido
+    * Salvar pedido no banco de dados
+* **Avaliar estabelecimento**
+    * Selecionar estabelecimento
+    * Definir pontuação
+    * Definir comentário
+    * Salvar avaliação no banco de dados
+* **Cadastrar entregador**
+    * Criar novo entregador
+    * Salvar entregador no banco de dados
+* **Acessar perfil**
+    * Buscar entregador no banco de dados
+    * Exibir informações do entregador
+* **Realizar entrega**
+    * Buscar pedido
+    * Atualizar status do pedido
+    * Entregar pedido
+* **Cancelar pedido**
+    * Buscar pedido
+    * Atualizar status do pedido
+* **Receber pedido**
+    * Buscar pedido
+    * Atualizar status do pedido
+* **Atualizar horário de funcionamento**
+    * Buscar estabelecimento
+    * Atualizar horários de funcionamento
+    * Salvar alterações no banco de dados
+* **Adicionar produto**
+    * Criar novo produto
+    * Salvar produto no banco de dados
+* **Remover produto**
+    * Buscar produto
+    * Remover produto do banco de dados
+
+        Atualizar informações do produto
+        Salvar alterações no banco de dados
